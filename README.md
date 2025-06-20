@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="150" alt="Welcome GIF" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" height="200" alt="Welcome GIF" />
   <h1>Hi there, I'm Dilmini Shyawindi 👋</h1>
+</div>
 
 <div align="center">
 
@@ -83,6 +84,14 @@ const Dilmini1027 = {
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dilmini1027&theme=tokyonight&hide_border=true&background=1A1B27&stroke=3ABFEF&ring=3ABFEF&fire=FF9900" height="200" />
 
 </div>
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dilmini1027&theme=react-dark" />
+</p>
+
+---
 
 
 ## 🤝 Connect & Collaborate
