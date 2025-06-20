@@ -1,4 +1,6 @@
-# Dilmini1027
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="150" alt="Welcome GIF" />
+  <h1>Hi there, I'm Dilmini Shyawindi 👋</h1>
 
 <div align="center">
 
@@ -28,7 +30,7 @@ const Dilmini1027 = {
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+
 
 
 ### 👩‍💻 Languages
@@ -50,11 +52,19 @@ const Dilmini1027 = {
 
 ---
 
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+---
+
 ### Tools & Systems
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-</div>
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+
 
 
 
