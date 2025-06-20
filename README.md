@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" height="200" alt="Welcome GIF" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" height="150" alt="Welcome GIF" />
   <h1>Hi there, I'm Dilmini Shyawindi 👋</h1>
 </div>
 
