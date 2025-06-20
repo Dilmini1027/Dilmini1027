@@ -26,9 +26,10 @@ const Dilmini1027 = {
 
 ```
 
+## 🛠️ Tech Stack
+
 <div align="center">
 
-## 🛠️ Tech Stack
 
 ### 👩‍💻 Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -47,15 +48,16 @@ const Dilmini1027 = {
 ### 🖥️ Backend Technologies
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-</div>
+---
 
 ### Tools & Systems
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-
 </div>
+
+
+
 
 ## 📊 GitHub Analytics
 
@@ -77,7 +79,7 @@ const Dilmini1027 = {
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kdj.lk)
+[![Portfolio](https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=google-chrome&logoColor=white)](modern-portfolio-gamma-roan.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/dilmini-shyawindi0926)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dilminishyavindi@gmail.com)
 
