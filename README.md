@@ -1,42 +1,53 @@
 # Dilmini1027
 
 <div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=3ABFEF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Frontend+developer;Graphic+designer)
 
-  [![GitHub followers](https://img.shields.io/github/followers/kdjayakody?label=Follow&style=social)](https://github.com/kdjayakody)
-  [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dilminishyavindi@gmail.com)
-  
-  <img src="https://komarev.com/ghpvc/?username=Dilmini1027&color=3ABFEF&style=flat-square&label=Profile+Views" alt="Profile Views" />
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=FF5F6D&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Frontend+Enthusiast;Graphic+Designer)
+
+[![GitHub Followers](https://img.shields.io/github/followers/Dilmini1027?label=Follow&style=social)](https://github.com/Dilmini1027)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dilminishyavindi@gmail.com)
+
+<img src="https://komarev.com/ghpvc/?username=Dilmini1027&color=FF5F6D&style=flat-square&label=Profile+Views" alt="Profile Views" />
+
 </div>
 
-## 👨‍💻 About Me
+---
 
-```typescript
+## 👩‍💻 About Me
+
+```ts
 const Dilmini1027 = {
-    location: "Sri Lanka 🇱🇰",
-    education: "Institute of Technology University of Moratuwa",
-    roles: ["Full Stack Developer", "Grapghic Designer", "Frontend Deeloper"], 
-    },
-    lifePhilosophy: "Learning something new every day 🚀"
+  location: "Sri Lanka 🇱🇰",
+  education: "Institute of Technology, University of Moratuwa",
+  interests: ["Full Stack Development", "Frontend Engineering", "Graphic Design"],
+  languagesAndTools: ["Python", "Java", "JavaScript", "React", "Node.js", "HTML", "CSS", "Tailwind CSS"],
+  philosophy: "Design with logic, code with creativity ✨"
 };
-```
 
-## 🛠️ Tech Arsenal
+```
 
 <div align="center">
 
-### Core Technologies
+## 🛠️ Tech Stack
+
+### 👩‍💻 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Web Technologies
+---
+
+### 🎨 Frontend Technologies
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+---
+
+### 🖥️ Backend Technologies
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-
+</div>
 
 ### Tools & Systems
 
@@ -49,13 +60,18 @@ const Dilmini1027 = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dilmini1027&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=3ABFEF&icon_color=3ABFEF" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilmini1027&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=3ABFEF&icon_color=3ABFEF" height="180" />
+
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=Dilmini1027&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=3ABFEF&icon_color=3ABFEF" height="180" />
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilmini1027&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=3ABFEF&icon_color=3ABFEF" height="180" />
+
+<!-- GitHub Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dilmini1027&theme=tokyonight&hide_border=true&background=1A1B27&stroke=3ABFEF&ring=3ABFEF&fire=FF9900" height="200" />
+
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dilmini1027&theme=tokyonight&hide_border=true&background=1A1B27&stroke=3ABFEF&ring=3ABFEF&fire=FF9900" height="200" />
-</div>
 
 ## 🤝 Connect & Collaborate
 
@@ -63,17 +79,14 @@ const Dilmini1027 = {
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kdj.lk)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kdjayakody/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kdjayakody)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kdjayakody/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kdj@kdj.lk)
 
 </div>
 
 ---
 
-<div align="center">
-  
-  **💡 Open to collaborating on Educational Tech, AI Projects, and Linux Tools!**
-  
-  ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+<div align="center"> 
+  <b>🚀 Open to collaborating on Web Apps, Creative UI/UX & Develop projects!</b><br/> 
+  <i>“Code smart. Design sharp.”</i> 
 </div>
+
